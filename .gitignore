@@ -1,0 +1,10 @@
+py/config.py
+badges/*.svg
+conf.php
+__pycache__
+secret.txt
+launcher
+yarn.lock
+nohup.out
+vendors/*
+!vendors/.gitkeep
